@@ -1,0 +1,16 @@
+{
+  "title": "DarkThemeWithCustomPalette Material Demo",
+  "name": "mui-darktheme-custompalette",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.1/docs/src/pages/customization/dark-mode/DarkThemeWithCustomPalette.js",
+  "dependencies": {
+    "@emotion/react": "11.4.1",
+    "@emotion/styled": "11.3.0",
+    "@mui/material": "5.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "keywords": []
+}
